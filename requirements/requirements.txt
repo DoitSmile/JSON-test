@@ -1,0 +1,4 @@
+djangorestframework~=3.14.0
+django
+django-extensions~=3.2.1
+httpie
